@@ -1,0 +1,51 @@
+body {
+    position: relative;
+}
+ul.nav {
+    
+    position: fixed;
+    text-align: center;
+    margin: 120px 60px;
+}
+.col-4{
+    background: #5701f8;
+}
+.nav-item{
+    padding: 10px;
+}    
+.nav-link{
+    color: #fff !important;   
+}
+.nav-link:hover{
+    font-size: 20px;   
+}
+
+div.col-8 div {
+    height: 660px;
+}
+
+/* main part */
+.pos{
+    padding-top: 150px !important;
+    padding-left: 50px;
+    font-size: 30px;
+}
+h1{
+    font-size: 80px;
+    font-weight: 700;
+    font-family:  Helvetica, Arial,sans-serif
+}
+
+.fa{
+    background: #333333;
+    height: 40px;
+    width: 50px;
+    padding-top: 5px;
+    border-radius: 30px;
+    text-align: center;
+}
+.fa:hover{
+    background: #fff;
+    border: 2px solid #000;
+}
+ 
